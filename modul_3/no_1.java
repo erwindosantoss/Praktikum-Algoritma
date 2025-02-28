@@ -17,5 +17,6 @@ public class no_1 {
 
         int rata = total / mhs;
         System.out.println("Nilai rata - rata untuk "+ mhs + " adalah " + rata);
+        sc.close();
     }
 }

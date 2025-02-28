@@ -63,7 +63,7 @@ public class index {
         }
         
 
-        
+        sc.close();
 
     }
 }

@@ -13,5 +13,7 @@ public class no_1 {
         double f = 440 * Math.pow(2, pangkat);
 
         System.out.printf("Frekuensi: %.2f Hz%n",f);
+
+        sc.close();
     }
 }

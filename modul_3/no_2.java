@@ -61,5 +61,6 @@ public class no_2 {
         }else if (pemenang == pointPaslon3){
             System.out.println("Paslon pemenang adalah Paslon 3 dengan skor " + pointPaslon3);
         }
+        sc.close();
     }
 }

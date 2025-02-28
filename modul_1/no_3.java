@@ -25,5 +25,7 @@ public class no_3 {
 
         JOptionPane.showMessageDialog(null, total);
 
+        sc.close();
+
     }
 }

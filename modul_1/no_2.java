@@ -22,5 +22,7 @@ public class no_2 {
         double penghasilan = sc.nextDouble();
 
         System.out.println("Nama saya " + nama + ", seorang " + gender + " tinggal di "+ alamat + ", dan Telepon "+ telepon +". Tahun ini usia saya " + usia + ", " + status + " , dan Penghasilan saya " + penghasilan + ".");
+
+        sc.close();
     }
 }

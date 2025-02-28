@@ -31,6 +31,6 @@ public class no_1 {
         }else {
             System.out.println("Hasil = Dominan Ganjil");
         }
-
+        sc.close();
     }    
 }
